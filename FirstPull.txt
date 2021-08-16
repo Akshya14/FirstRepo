@@ -1,11 +1,3 @@
 This is my first file which I will use to pull by using git pull cmd.
 
 This line is added to test git push cmd.
-
-testing
-
-1234567
-
-Hello! World.
-hello
-11111111
